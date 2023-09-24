@@ -1,4 +1,4 @@
-/!/bin/bash
+#!/bin/bash
 
 echo "File loaded successfully"
 
